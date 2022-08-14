@@ -26,3 +26,8 @@ h1 {
 	object-fit: cover;
 	height: 100%;
 }
+div#error p {
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
