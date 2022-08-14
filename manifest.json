@@ -1,0 +1,11 @@
+{
+	"name": "google-text-to-speech-downloader",
+	"description": "Downloader for Google Translate TTS",
+	"version": "1.0",
+	"author": "Fckdatsh",
+	"manifest_version": 3,
+	"background": {
+		"service_worker": "background.js"
+	},
+	"devtools_page": "devtools.html"
+}
